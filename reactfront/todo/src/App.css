@@ -1,0 +1,28 @@
+body
+{
+    margin: 0px;
+}
+.main
+{
+    background-image: url("./m.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1400px;
+    height: 600px;
+    margin:0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1
+{
+    background-color: crimson;
+    height: 120px;
+    width: 250px;
+}
+
+.box3
+{
+     background-color: crimson;
+    height: 400px;
+    width: 540px;
+}
